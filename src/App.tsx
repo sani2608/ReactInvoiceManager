@@ -1,5 +1,3 @@
-import { useState } from 'react'
-import logo from './logo.svg'
 import './App.css'
 
 function App() {
@@ -12,3 +10,11 @@ function App() {
 }
 
 export default App
+
+
+// todo:
+// 1. setup environment
+// 2. material ui
+// 3. routing conf
+// 4. formik
+// 5. sql server db.
